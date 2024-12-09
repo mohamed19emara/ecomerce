@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/E-comerce/static/css/main.f0d89e44.css",
-    "main.js": "/E-comerce/static/js/main.0a96e6aa.js",
-    "static/media/slick.svg": "/E-comerce/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/E-comerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/E-comerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/E-comerce/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/E-comerce/index.html",
-    "main.f0d89e44.css.map": "/E-comerce/static/css/main.f0d89e44.css.map",
-    "main.0a96e6aa.js.map": "/E-comerce/static/js/main.0a96e6aa.js.map"
+    "main.css": "/testecomerce/static/css/main.0fbdc615.css",
+    "main.js": "/testecomerce/static/js/main.0a96e6aa.js",
+    "static/media/slick.svg": "/testecomerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/testecomerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/testecomerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/testecomerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/testecomerce/index.html",
+    "main.0fbdc615.css.map": "/testecomerce/static/css/main.0fbdc615.css.map",
+    "main.0a96e6aa.js.map": "/testecomerce/static/js/main.0a96e6aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0d89e44.css",
+    "static/css/main.0fbdc615.css",
     "static/js/main.0a96e6aa.js"
   ]
 }
